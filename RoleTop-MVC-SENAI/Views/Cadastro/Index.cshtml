@@ -1,0 +1,18 @@
+<main>
+    <div class="cadastro">
+    <form enctype="multipart/form-data" method="POST" action='@Url.Action("CadastrarCliente", "Cadastro")'>
+        <h1>Cadastro</h1>
+            <input type="text" name="nome" placeholder="Nome Completo" alt="nome">
+            <input type="email" name="email" placeholder="Email" alt="email">
+            <input type="text" name="telefone" placeholder="11 1234 56789" alt="telefone">
+            <input type="date" name="data" placeholder="11/11/1999" alt="data de nascomento">
+            <input type="text" name="cpf" placeholder="CPF ou CNPJ" alt="cpf ou cnpj">  
+            <input id="foto-perfil-upload" type="file" accept="image/*" name="foto-perfil" />
+            <input type="password" minlength="6" name="senha" placeholder="Senha" alt="senha">
+            <input type="password" minlength="6" name="csenha" placeholder="Confirma Senha" alt="confirma senha">
+
+            <input type="submit" name="cadastra" value="Cadastrar" alt="botao de cadastro">
+            <a  href='@Url.Action("Login","Cliente")'>Já Tenho Cadastro</a>
+    </form>
+</div>
+</main>

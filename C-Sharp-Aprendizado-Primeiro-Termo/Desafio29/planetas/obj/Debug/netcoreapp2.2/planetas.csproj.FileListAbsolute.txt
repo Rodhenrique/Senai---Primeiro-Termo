@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\bin\Debug\netcoreapp2.2\planetas.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\bin\Debug\netcoreapp2.2\planetas.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\bin\Debug\netcoreapp2.2\planetas.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\bin\Debug\netcoreapp2.2\planetas.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\bin\Debug\netcoreapp2.2\planetas.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\obj\Debug\netcoreapp2.2\planetas.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\obj\Debug\netcoreapp2.2\planetas.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\obj\Debug\netcoreapp2.2\planetas.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\obj\Debug\netcoreapp2.2\planetas.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\obj\Debug\netcoreapp2.2\planetas.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\planetas\obj\Debug\netcoreapp2.2\planetas.pdb

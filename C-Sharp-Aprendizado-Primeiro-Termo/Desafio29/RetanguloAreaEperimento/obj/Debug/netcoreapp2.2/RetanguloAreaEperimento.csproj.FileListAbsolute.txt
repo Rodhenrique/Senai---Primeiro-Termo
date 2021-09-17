@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\obj\Debug\netcoreapp2.2\RetanguloAreaEperimento.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\obj\Debug\netcoreapp2.2\RetanguloAreaEperimento.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\obj\Debug\netcoreapp2.2\RetanguloAreaEperimento.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\obj\Debug\netcoreapp2.2\RetanguloAreaEperimento.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\bin\Debug\netcoreapp2.2\RetanguloAreaEperimento.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\bin\Debug\netcoreapp2.2\RetanguloAreaEperimento.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\bin\Debug\netcoreapp2.2\RetanguloAreaEperimento.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\bin\Debug\netcoreapp2.2\RetanguloAreaEperimento.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\bin\Debug\netcoreapp2.2\RetanguloAreaEperimento.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\obj\Debug\netcoreapp2.2\RetanguloAreaEperimento.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\RetanguloAreaEperimento\obj\Debug\netcoreapp2.2\RetanguloAreaEperimento.pdb

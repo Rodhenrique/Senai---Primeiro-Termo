@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\bin\Debug\netcoreapp2.2\piramideinvertida.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\bin\Debug\netcoreapp2.2\piramideinvertida.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\bin\Debug\netcoreapp2.2\piramideinvertida.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\bin\Debug\netcoreapp2.2\piramideinvertida.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\bin\Debug\netcoreapp2.2\piramideinvertida.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\obj\Debug\netcoreapp2.2\piramideinvertida.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\obj\Debug\netcoreapp2.2\piramideinvertida.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\obj\Debug\netcoreapp2.2\piramideinvertida.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\obj\Debug\netcoreapp2.2\piramideinvertida.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\obj\Debug\netcoreapp2.2\piramideinvertida.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\piramideinvertida\obj\Debug\netcoreapp2.2\piramideinvertida.pdb

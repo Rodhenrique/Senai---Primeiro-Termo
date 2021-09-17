@@ -1,0 +1,90 @@
+@model RoletopMvc.ViewModels.HistoricoViewModel
+<main>
+
+    <div class="dash">
+            <div class="button-dash">
+                <form method="POST" action='@Url.Action("Index", "Agendamento")'>
+                <input type="submit" value="agendamento" alt="agendamento">
+                </form>
+                    </div>
+                    <div id="dash3">
+                    <div class="mensagem">
+                    <p>mensagem</p>
+                    <hr>
+                    <p>data e hora</p>
+                    <hr>
+                    <a data-modal-target="#modal">enviar</a>
+                    </div>
+                    <div id="perfil2">
+
+                            <div class="modal" id="modal">
+                                <div class="modal-header">
+                                    <div class="title">mensagem</div>
+                                    <button data-close-button class="close-button">&times;</button>
+                                </div>
+                                <div class="modal-body" id="PopUpMensagem">
+                                    <form  method="POST" action='@Url.Action("Mensagem", "DashCliente")'>
+                                        <input type="email" name="emaildamensagem" value="@Model.cliente.Email" value="@Model.UsuarioEmail">
+                                        <input type="text" maxlength="25" name="objetivo" placeholder="Objetivo" id="objetivo">
+                                        <input type="text" maxlength="400" name="mensagem" placeholder="Escreva a Mensagem">
+                                        <input type="submit">
+                                    </form>
+                                </div>
+                            </div>
+                            <div id="overlay"></div>
+
+
+                    <div class="perfil">
+    
+                        <div>
+                            <img src="@Model.URLFoto" alt="foto do perfil">
+                            <p>@Model.UsuarioNome</p>
+                        </div>
+                    
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="dash-adm">
+            <table>
+                <thead>
+
+                    <tr>
+
+                        <th rowspan="4">Dia do Evento</th>
+                        <th colspan="2">Serviço</th>
+                        <th rowspan="2">tipo de evento</th>
+                        <th rowspan="2">Informações</th>
+                        <th rowspan="2">Pagamento</th>
+                        <th rowspan="2">Preço Total</th>
+                        <th colspan="2" rowspan="2">status</th>
+                    </tr>
+                        <th><img src="~/img/speaker.png" alt=""></th>
+                        <th><img src="~/img/spotlight.png" alt=""></th>
+
+                </thead>
+
+                <tbody>
+                    @foreach (var item in @Model.alugars)
+                    {
+                    <tr>
+                        <td>@item.DataDoPedido</td>
+                        <td><img src=@item.selecionaSom></td>
+                        <td><img src=@item.selecionaIlumina></td>
+                        <td>@item.TipoEvento</td>
+                        <td>@item.Descricao</td>
+                        <td>@item.Pagamento</td>
+                        <td>R$ @item.PrecoTotal</td>
+                        <td>@item.StatusNome</td>
+                    </tr>
+                    }
+        
+                </tbody>
+            </table>
+        </div>  
+     <div>
+
+
+</main>

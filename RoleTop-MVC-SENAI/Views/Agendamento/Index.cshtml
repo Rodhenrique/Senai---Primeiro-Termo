@@ -1,0 +1,56 @@
+@model RoletopMvc.ViewModels.PedidosViewModels
+
+<main>
+    <div class="agendamento">
+    <form method="POST" action='@Url.Action("Registrar", "Agendamento")'>
+    <h1>agendamento</h1>
+        <p>Email</p>
+
+            <input type="email" name="email" placeholder="Email" value="@Model.UsuarioEmail" required>
+
+<p>Data do Evento</p>
+
+    <input type="date">
+
+        <select name="eventos" id="eventos">
+        <option value="" disabled selected required>Selecione</option>
+            @foreach(var eventos in Model.Eventos)
+            {
+                <option value=@eventos>@eventos</option>
+            }
+        </select>
+<input maxlength="80" type="text" name="descricao" placeholder="Descrição do Evento" id="desc" required>
+
+    <p>Forma de Pagamento</p>
+
+        <select name="forma" id="forma">
+        <option value="selecione">selecione</option>
+        <option value="boleto">boleto</option>
+        <option value="cartão">cartão de credito</option>
+        </select>
+
+<input type="text" name="organizado" placeholder="nome do organizando" required>
+
+<p>deseja som?</p>
+
+     <select name="som" id="forma" required>
+         <option value="" disabled selected>Selecione</option>
+            @foreach(var som in Model.Opcaos1)
+            {
+                <option value=@som>@som</option>
+            }
+        </select>
+    <p>deseja iluminação?</p>
+
+     <select name="ilumina" id="forma" required>
+         <option value="" disabled selected>Selecione</option>
+            @foreach(var ilumina in Model.Opcaos)
+            {
+                <option value=@ilumina>@ilumina</option>
+            }
+        </select>
+    <input type="submit" value="agendar">
+    </form>
+</div>
+
+</main>

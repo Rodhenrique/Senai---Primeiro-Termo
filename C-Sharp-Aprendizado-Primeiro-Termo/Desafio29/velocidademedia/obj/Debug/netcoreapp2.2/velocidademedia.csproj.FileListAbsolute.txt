@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\bin\Debug\netcoreapp2.2\velocidademedia.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\bin\Debug\netcoreapp2.2\velocidademedia.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\bin\Debug\netcoreapp2.2\velocidademedia.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\bin\Debug\netcoreapp2.2\velocidademedia.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\bin\Debug\netcoreapp2.2\velocidademedia.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\obj\Debug\netcoreapp2.2\velocidademedia.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\obj\Debug\netcoreapp2.2\velocidademedia.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\obj\Debug\netcoreapp2.2\velocidademedia.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\obj\Debug\netcoreapp2.2\velocidademedia.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\obj\Debug\netcoreapp2.2\velocidademedia.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\velocidademedia\obj\Debug\netcoreapp2.2\velocidademedia.pdb

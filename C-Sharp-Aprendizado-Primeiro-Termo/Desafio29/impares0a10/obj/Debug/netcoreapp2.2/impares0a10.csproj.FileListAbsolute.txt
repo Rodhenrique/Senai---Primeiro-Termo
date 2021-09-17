@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\obj\Debug\netcoreapp2.2\impares0a10.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\obj\Debug\netcoreapp2.2\impares0a10.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\obj\Debug\netcoreapp2.2\impares0a10.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\obj\Debug\netcoreapp2.2\impares0a10.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\bin\Debug\netcoreapp2.2\impares0a10.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\bin\Debug\netcoreapp2.2\impares0a10.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\bin\Debug\netcoreapp2.2\impares0a10.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\bin\Debug\netcoreapp2.2\impares0a10.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\bin\Debug\netcoreapp2.2\impares0a10.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\obj\Debug\netcoreapp2.2\impares0a10.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\impares0a10\obj\Debug\netcoreapp2.2\impares0a10.pdb

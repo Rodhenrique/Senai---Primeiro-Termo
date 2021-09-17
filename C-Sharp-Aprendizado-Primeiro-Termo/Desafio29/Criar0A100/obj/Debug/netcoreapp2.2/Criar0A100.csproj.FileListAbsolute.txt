@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\bin\Debug\netcoreapp2.2\Criar0A100.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\bin\Debug\netcoreapp2.2\Criar0A100.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\bin\Debug\netcoreapp2.2\Criar0A100.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\bin\Debug\netcoreapp2.2\Criar0A100.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\bin\Debug\netcoreapp2.2\Criar0A100.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\obj\Debug\netcoreapp2.2\Criar0A100.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\obj\Debug\netcoreapp2.2\Criar0A100.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\obj\Debug\netcoreapp2.2\Criar0A100.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\obj\Debug\netcoreapp2.2\Criar0A100.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\obj\Debug\netcoreapp2.2\Criar0A100.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\Criar0A100\obj\Debug\netcoreapp2.2\Criar0A100.pdb

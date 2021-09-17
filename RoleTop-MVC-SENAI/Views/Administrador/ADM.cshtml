@@ -1,0 +1,114 @@
+@model RoletopMvc.ViewModels.DashboardViewModel
+
+<main>
+    <div class="ajuste3">
+
+<h2>Pedidos</h2>
+    </div>
+        <div class="block">
+         <div class="quadros1">
+            <p>NEGADOS</p>
+            <p>@Model.PedidosReprovados</p>
+
+            </div>
+
+            <div class="quadros2">
+            <p>APROVADOS</p>
+            <P>@Model.PedidosAprovados</P>
+            </div>
+
+            <div class="quadros3">
+            <p>PENDENTES</p>
+            <p>@Model.PedidosPendentes</p>
+    </div>
+</div>
+
+
+<div class="dash-adm">
+    <table>
+        <thead>
+
+            <tr>
+                <th rowspan="2">Nome</th>
+                <th rowspan="4">Data e Hora</th>
+                <th colspan="2">Serviço</th>
+                <th rowspan="2">tipo de evento</th>
+                <th rowspan="2">Informações</th>
+                <th rowspan="2">Pagamento</th>
+                <th rowspan="2">Preço Total</th>
+                <th colspan="2" rowspan="2">status</th>
+            </tr>
+                <th><img src="~/img/speaker.png" alt=""></th>
+                <th><img src="~/img/spotlight.png" alt=""></th>
+
+            </th>
+        </thead>
+
+<tbody>
+    @foreach (var pedido in @Model.Pedidos)
+    {
+        
+            <tr>
+                <td>@pedido.organizado</td>
+                <td>@pedido.DataDoPedido</td>
+                <td><img src=@pedido.selecionaIlumina></td>
+                <td><img src=@pedido.selecionaSom></td>
+                <td>@pedido.TipoEvento</td>
+                <td>@pedido.Descricao</td>
+                <td>@pedido.Pagamento</td>
+                <td>R$ @pedido.PrecoTotal</td>
+                <td><a href='@Url.Action("Aprovar", "Agendamento", new {id = @pedido.Id})'><img src="~/img/agora.png" alt=""></a></td>
+                <td><a href='@Url.Action("Reprovar", "Agendamento", new {id = @pedido.Id})'><img src="~/img/icons8-x-16.png" alt=""></a></td>
+            </tr>
+    }
+        </tbody>
+    </table>
+</div>  
+
+
+<div class="dash-mensagem">
+    <h2>mensagens</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>nome</th>
+                <th>Data e Hora</th>
+                <th colspan="2">objetivo</th>
+            </tr>
+        </thead>
+
+    <tbody>
+            @foreach (var item in @Model.Mensagem)
+            {
+            <tr>  
+                    <td>@item.cliente.Nome</td>
+                    <td>@item.Data</td>
+                    <td>@item.Objetivo</td>
+                    <td><a onclick="myFunction()">Ler</a></td> 
+            </tr>
+            }
+            
+    </tbody>
+</table>
+
+     
+<!-- <div class="dash-mensagem">
+
+<div class="ajuste2">
+
+        
+        
+<div class="adm-button">
+    <input type="submit" value="Modificar Banner" alt="Modificar Banner">
+    <input type="submit" value="Modificar Textos" alt="Modificar Textos">
+    <input type="submit" value="Modificar Galeria" alt="Modificar galeria">
+    </div>
+
+    <div class="adm-button">
+    <input type="submit" value="Marca Agenda" alt="Marca agenda">
+    <input type="submit" value="Excluir cadastro" alt="Excluir cadastro">
+    </div>
+
+</div>
+</div> -->
+</main>

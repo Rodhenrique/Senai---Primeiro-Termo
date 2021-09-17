@@ -1,0 +1,3 @@
+Tipo_usuario=0;nome=admin;email=admin@admin.com;senha=admin;Cpf=43443434;telefone=11 32332 3233;data-nascimento=12/12/2000 00:00:00;Url-Perfil=
+Tipo_usuario=1;nome=marcos;email=marcos@gmail.com;senha=marcos;Cpf=323232;telefone=12 323 323;data-nascimento=04/12/2019 00:00:00;Url-Perfil=wwwroot\img\fotos\usuario
+Tipo_usuario=1;nome=henrique;email=henrique@gmail.com;senha=henrique;Cpf=8876543;telefone=11 3232 3232;data-nascimento=06/12/2019 00:00:00;Url-Perfil=wwwroot\img\fotos\11 3232 3232\perfil\

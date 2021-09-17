@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\obj\Debug\netcoreapp2.2\meses.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\obj\Debug\netcoreapp2.2\meses.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\obj\Debug\netcoreapp2.2\meses.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\obj\Debug\netcoreapp2.2\meses.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\bin\Debug\netcoreapp2.2\meses.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\bin\Debug\netcoreapp2.2\meses.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\bin\Debug\netcoreapp2.2\meses.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\bin\Debug\netcoreapp2.2\meses.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\bin\Debug\netcoreapp2.2\meses.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\obj\Debug\netcoreapp2.2\meses.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\meses\obj\Debug\netcoreapp2.2\meses.pdb

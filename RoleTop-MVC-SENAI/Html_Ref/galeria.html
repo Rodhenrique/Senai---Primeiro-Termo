@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>galeria</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://kit.fontawesome.com/349a64cb04.js"></script>
+
+
+</head>
+<body>
+<div>
+
+    <div id="background-img">
+        <img src="img/icons8-coroa-52.png" title="coroa" alt="coroa de rei">
+
+        <img src="img/logo.png" title="logo do role" title="coroa2" alt="uma coroa">
+        <img src="img/icons8-coroa-52.png" title="coroa3" alt="coroa de rei2">
+
+    </div>
+
+<header>
+    <nav>
+        <div class="section-container">
+            <ul>
+                <li id="bt-mobile-menu">
+                <!-- HTML para colocar os ícones do FA -->
+                <a href="javascript:void(0);" class="icon" onclick="toggleMobileMenu()">
+                <i class="fas fa-crown"></i>
+
+                </a>
+                </li>
+
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html" class="active">Inicio</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="agenda.html">Agenda</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="#">Galeria</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="quem-somos.html">Quem Somos</a>
+                </li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="login.html">Login</a></li>
+                <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="cadastro.html">Cadastro</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<div class="ajuste">
+    <div class="seleciona">
+    <a href="galeria-clientes.html"><button>Galeria dos Clientes</button></a>
+</div>
+
+<div class="seleciona">
+
+        <a href="galeria-donos.html"><button>Galeria dos Donos</button></a>
+    </div>
+</div>
+
+<h1>Fotos da Casa</h1>
+
+<div class="container-1">
+
+    <img src="img/casa 1.jpg" title="foto da roletop1" alt="foto da casa do roletop1">
+    <img src="img/casa 2.jpg" title="foto da roletop2" alt="foto da casa do roletop2">
+    <img src="img/casa 3.jpg" title="foto da roletop3" alt="foto da casa do roletop3">
+
+</div>
+
+<div class="container-2">
+
+    <div class="colunas">
+        <img src="img/casa 4.jpg" title="foto da casa1" alt="foto do salão do roletop1">
+        <p>camarim exclusivo para atores e cantores com estacionamento com 10 vagas para carros.</p>
+    </div>
+
+<div class="colunas">
+
+    <img src="img/casa 5.jpg" title="foto da casa2" alt="foto do salão do roletop2">
+    <p>salão todo reto para tem mais acesso a deficientes.</p>
+
+</div>
+
+<div class="colunas">
+
+        <img src="img/casa 6.jpg" title="foto da casa3" alt="foto do salão do roletop3">
+        <p>palco para show e etc.lugar todo de sonex.</p>
+    </div>
+
+<div class="colunas">
+
+        <img src="img/casa 7.jpg" title="foto da casa4" alt="foto do salão do roletop4">
+        <p>umas melhores casa de evento da cidade.</p>
+    </div>
+
+</div>
+
+<div class="container-3">
+
+    <div class="colunas2">
+        <p>um amplo e moderno salão para todos os seus eventos</p>
+        <img src="img/casa 8.jpg" title="foto da casa5" alt="foto do salão do roletop5">
+
+</div>
+
+    <div class="colunas2">
+        <p>casa com ar condiconando é banheiros super limpos</p>
+        <img src="img/casa 9.jpg" title="foto da casa6" alt="foto do salão do roletop6">
+
+</div>
+
+    <div class="colunas2">
+        <p>casa frequentada por muitos famosos é sempre cantores</p>
+        <img src="img/festa-15-anos-balada-robo-led.jpg" title="foto da casa7" alt="foto do salão do roletop7">
+
+</div>
+
+    <div class="colunas2">
+        <p>lugar bem decorados para suas melhores selfie</p>
+        <img src="img/images.png" title="foto da casa8" alt="foto do salão do roletop8">
+    </div>
+
+</div>
+
+
+
+<footer>
+        <img src="img/icons8-festa-dançante-100.png" title="cara dançando" alt="cara dançando">
+        <address>
+
+            Telefone:11-4002-8922         WhatsApp:11-91234-5678 <br>
+            Av.Barão de Limeira,132 Cep:01202-000 <br>
+            email:roletop132@gmail.com <br>
+        </address>
+
+<div class="icones">
+    <img src="img/icons8-facebook-48.png" title="facebook" alt="icone do facebook">
+    <img src="img/icons8-gmail-48.png" title="gmail" alt="icone do gmail">
+    <img src="img/icons8-google-plus-48.png" title="google plus" alt="icone do google plus">
+    <img src="img/icons8-twitter-48.png" title="twitter" alt="icone do twitter">
+    <img src="img/icons8-instagram-48.png" title="instragram" alt="icone do instragram">
+</div>
+
+</footer>
+
+<script>
+    function toggleMobileMenu() {
+    var ul = document.querySelector("nav ul");
+    var commonButtons = document.querySelectorAll("nav .bt-common-menu");
+    var icon = document.querySelector(".icon > i");
+
+    ul.classList.toggle("mobile-mode");
+
+    if (icon.classList.contains("fa-bars")) {
+    icon.classList.remove("fa-bars");
+    icon.classList.remove("fa");
+
+    icon.classList.add("fas");
+    icon.classList.add("fa-crown");
+    } else {
+    icon.classList.remove("fas");
+    icon.classList.remove("fa-crown");
+
+    icon.classList.add("fa");
+    icon.classList.add("fa-bars");
+    }
+
+    for (var button of commonButtons) {
+    button.classList.toggle("active");
+    }
+
+}
+
+</script>
+    
+</body>
+</html>

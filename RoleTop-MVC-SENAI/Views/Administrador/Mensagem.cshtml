@@ -1,0 +1,18 @@
+@model RoletopMvc.ViewModels.DashboardViewModel
+
+<main>
+            <div class="enviar">
+                <h3>Mensagens</h3>
+            @foreach (var item in @Model.Mensagem)
+            {
+                    <form method="POST" action='@Url.Action("EnviarEmail", "Administrador")'>
+                            <input type="email" name="emaildamensagem" alt="email" value="@item.cliente.Email" disabled>
+                            <input type="text" name="text" value="@item.Objetivo" disabled>
+                            <input type="email" name="email"  value="@item.MensagemDoCliente" disabled>
+                            <input type="text" name="tituloDoTexto" placeholder="Titulo Do Email">
+                            <input type="text" id="inputlog" name="resposta" placeholder="Escrever Resposta">
+                            <input type="submit" id="inputlog1" name="submit" value="Enviar">
+                    </form>
+            }
+            </div>
+</main>

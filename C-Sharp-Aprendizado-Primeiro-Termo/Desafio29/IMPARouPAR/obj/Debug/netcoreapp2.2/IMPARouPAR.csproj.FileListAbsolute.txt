@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\bin\Debug\netcoreapp2.2\IMPARouPAR.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\bin\Debug\netcoreapp2.2\IMPARouPAR.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\bin\Debug\netcoreapp2.2\IMPARouPAR.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\bin\Debug\netcoreapp2.2\IMPARouPAR.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\bin\Debug\netcoreapp2.2\IMPARouPAR.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\obj\Debug\netcoreapp2.2\IMPARouPAR.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\obj\Debug\netcoreapp2.2\IMPARouPAR.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\obj\Debug\netcoreapp2.2\IMPARouPAR.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\obj\Debug\netcoreapp2.2\IMPARouPAR.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\obj\Debug\netcoreapp2.2\IMPARouPAR.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\IMPARouPAR\obj\Debug\netcoreapp2.2\IMPARouPAR.pdb

@@ -1,0 +1,11 @@
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\obj\Debug\netcoreapp2.2\exercicio22.csprojAssemblyReference.cache
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\obj\Debug\netcoreapp2.2\exercicio22.csproj.CoreCompileInputs.cache
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\obj\Debug\netcoreapp2.2\exercicio22.AssemblyInfoInputs.cache
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\obj\Debug\netcoreapp2.2\exercicio22.AssemblyInfo.cs
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\bin\Debug\netcoreapp2.2\exercicio22.deps.json
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\bin\Debug\netcoreapp2.2\exercicio22.runtimeconfig.json
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\bin\Debug\netcoreapp2.2\exercicio22.runtimeconfig.dev.json
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\bin\Debug\netcoreapp2.2\exercicio22.dll
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\bin\Debug\netcoreapp2.2\exercicio22.pdb
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\obj\Debug\netcoreapp2.2\exercicio22.dll
+C:\Users\henrique\Desktop\projetos-c-sharp\Desafio29\exercicio22\obj\Debug\netcoreapp2.2\exercicio22.pdb

@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\obj\Debug\netcoreapp2.2\alfabeto.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\obj\Debug\netcoreapp2.2\alfabeto.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\obj\Debug\netcoreapp2.2\alfabeto.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\obj\Debug\netcoreapp2.2\alfabeto.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\bin\Debug\netcoreapp2.2\alfabeto.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\bin\Debug\netcoreapp2.2\alfabeto.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\bin\Debug\netcoreapp2.2\alfabeto.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\bin\Debug\netcoreapp2.2\alfabeto.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\bin\Debug\netcoreapp2.2\alfabeto.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\obj\Debug\netcoreapp2.2\alfabeto.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\alfabeto\obj\Debug\netcoreapp2.2\alfabeto.pdb

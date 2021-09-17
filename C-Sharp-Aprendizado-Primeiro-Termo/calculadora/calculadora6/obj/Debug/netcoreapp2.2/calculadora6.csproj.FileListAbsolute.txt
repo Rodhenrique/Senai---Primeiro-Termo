@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\obj\Debug\netcoreapp2.2\calculadora6.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\obj\Debug\netcoreapp2.2\calculadora6.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\obj\Debug\netcoreapp2.2\calculadora6.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\obj\Debug\netcoreapp2.2\calculadora6.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\bin\Debug\netcoreapp2.2\calculadora6.deps.json
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\bin\Debug\netcoreapp2.2\calculadora6.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\bin\Debug\netcoreapp2.2\calculadora6.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\bin\Debug\netcoreapp2.2\calculadora6.dll
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\bin\Debug\netcoreapp2.2\calculadora6.pdb
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\obj\Debug\netcoreapp2.2\calculadora6.dll
+C:\Users\53167369825\Documents\exercicios\calculadora\calculadora6\obj\Debug\netcoreapp2.2\calculadora6.pdb

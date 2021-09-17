@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\obj\Debug\netcoreapp2.2\MudaValor.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\obj\Debug\netcoreapp2.2\MudaValor.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\obj\Debug\netcoreapp2.2\MudaValor.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\obj\Debug\netcoreapp2.2\MudaValor.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\bin\Debug\netcoreapp2.2\MudaValor.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\bin\Debug\netcoreapp2.2\MudaValor.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\bin\Debug\netcoreapp2.2\MudaValor.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\bin\Debug\netcoreapp2.2\MudaValor.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\bin\Debug\netcoreapp2.2\MudaValor.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\obj\Debug\netcoreapp2.2\MudaValor.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\MudaValor\obj\Debug\netcoreapp2.2\MudaValor.pdb

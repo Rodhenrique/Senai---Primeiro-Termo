@@ -1,0 +1,11 @@
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\bin\Debug\netcoreapp2.2\firenight.deps.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\bin\Debug\netcoreapp2.2\firenight.runtimeconfig.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\bin\Debug\netcoreapp2.2\firenight.runtimeconfig.dev.json
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\bin\Debug\netcoreapp2.2\firenight.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\bin\Debug\netcoreapp2.2\firenight.pdb
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\obj\Debug\netcoreapp2.2\firenight.csprojAssemblyReference.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\obj\Debug\netcoreapp2.2\firenight.csproj.CoreCompileInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\obj\Debug\netcoreapp2.2\firenight.AssemblyInfoInputs.cache
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\obj\Debug\netcoreapp2.2\firenight.AssemblyInfo.cs
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\obj\Debug\netcoreapp2.2\firenight.dll
+C:\Users\53167369825\Documents\exercicios\Desafio29\firenight\obj\Debug\netcoreapp2.2\firenight.pdb
